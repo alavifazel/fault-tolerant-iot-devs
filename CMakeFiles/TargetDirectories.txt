@@ -1,0 +1,5 @@
+/home/afx/code/HELL/esp32/pub_sub/simulation_code/CMakeFiles/main.dir
+/home/afx/code/HELL/esp32/pub_sub/simulation_code/CMakeFiles/run.dir
+/home/afx/code/HELL/esp32/pub_sub/simulation_code/CMakeFiles/run_test.dir
+/home/afx/code/HELL/esp32/pub_sub/simulation_code/CMakeFiles/edit_cache.dir
+/home/afx/code/HELL/esp32/pub_sub/simulation_code/CMakeFiles/rebuild_cache.dir
